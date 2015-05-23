@@ -19,3 +19,8 @@ TODO
 CREDITS
 =======
 Thanks to the guys of Heinlein Support GmbH which have developed most of the plugins (`github.com/HeinleinSupport/check_mk <https://github.com/HeinleinSupport/check_mk>`_).
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/bechtoldt/check_mk-checks
+   :target: https://gitter.im/bechtoldt/check_mk-checks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
